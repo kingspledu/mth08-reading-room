@@ -1,1 +1,318 @@
-{}
+{
+  "whispered": {
+    "ko": "속삭였다",
+    "definition": "Spoke very quietly."
+  },
+  "figure": {
+    "ko": "사람의 형체",
+    "definition": "A person whose shape can be seen."
+  },
+  "moonlight": {
+    "ko": "달빛",
+    "definition": "Light from the moon."
+  },
+  "rubbed": {
+    "ko": "문질렀다",
+    "definition": "Moved a hand back and forth against something."
+  },
+  "sighed": {
+    "ko": "한숨 쉬었다",
+    "definition": "Let out a long breath because of a feeling."
+  },
+  "tiptoed": {
+    "ko": "발끝으로 살금살금 걸었다",
+    "definition": "Walked quietly on the toes."
+  },
+  "crept": {
+    "ko": "살금살금 움직였다",
+    "definition": "Moved slowly and quietly."
+  },
+  "shadow": {
+    "ko": "그림자",
+    "definition": "A dark shape made when something blocks light."
+  },
+  "streamed": {
+    "ko": "쏟아져 들어왔다",
+    "definition": "Moved into a place in a steady flow."
+  },
+  "shimmered": {
+    "ko": "희미하게 반짝였다",
+    "definition": "Shone with a soft, changing light."
+  },
+  "moonstone": {
+    "ko": "월장석",
+    "definition": "A pale stone that seems to shine softly."
+  },
+  "mammoth bone": {
+    "ko": "매머드 뼈",
+    "definition": "A bone from a large extinct animal like an elephant."
+  },
+  "spell": {
+    "ko": "마법",
+    "definition": "Magic that causes something to change."
+  },
+  "squinted": {
+    "ko": "눈을 가늘게 떴다",
+    "definition": "Made the eyes partly closed to see more clearly."
+  },
+  "equipment": {
+    "ko": "장비",
+    "definition": "Things needed to do a particular job."
+  },
+  "astronauts": {
+    "ko": "우주 비행사들",
+    "definition": "People trained to travel and work in space."
+  },
+  "dome": {
+    "ko": "돔",
+    "definition": "A structure with a rounded roof."
+  },
+  "curved": {
+    "ko": "굽은",
+    "definition": "Having a smooth bend rather than being straight."
+  },
+  "chamber": {
+    "ko": "큰 방",
+    "definition": "A room used for a particular purpose."
+  },
+  "nervous": {
+    "ko": "불안한",
+    "definition": "Worried about what might happen."
+  },
+  "controls": {
+    "ko": "조절 장치",
+    "definition": "Devices used to make equipment work as wanted."
+  },
+  "explore": {
+    "ko": "탐험하다",
+    "definition": "Travel around a place to learn about it."
+  },
+  "diagram": {
+    "ko": "설명 그림",
+    "definition": "A drawing that shows how something is arranged or works."
+  },
+  "airlock": {
+    "ko": "기밀실",
+    "definition": "A small room with doors that control air between two areas."
+  },
+  "craters": {
+    "ko": "분화구들",
+    "definition": "Large bowl-shaped holes on the surface of the moon."
+  },
+  "barren": {
+    "ko": "황량한",
+    "definition": "Having very little or no plant life."
+  },
+  "grabbed": {
+    "ko": "붙잡았다",
+    "definition": "Took hold of something quickly."
+  },
+  "surface": {
+    "ko": "표면",
+    "definition": "The outer or top part of something."
+  },
+  "rays": {
+    "ko": "광선",
+    "definition": "Narrow beams of light or heat."
+  },
+  "spacesuits": {
+    "ko": "우주복들",
+    "definition": "Special suits that protect people in space."
+  },
+  "tanks": {
+    "ko": "공기통들",
+    "definition": "Containers that hold the air the children breathe."
+  },
+  "bulky": {
+    "ko": "부피가 크고 거추장스러운",
+    "definition": "Large and difficult to move in."
+  },
+  "visor": {
+    "ko": "헬멧의 앞 가리개",
+    "definition": "The part of a helmet that covers the face."
+  },
+  "clumsily": {
+    "ko": "어색하고 서투르게",
+    "definition": "In a way that is awkward and not smooth."
+  },
+  "footprints": {
+    "ko": "발자국들",
+    "definition": "Marks left by feet on a surface."
+  },
+  "powder": {
+    "ko": "고운 가루",
+    "definition": "A dry material made of very small pieces."
+  },
+  "gravity": {
+    "ko": "중력",
+    "definition": "The force that pulls things toward a world such as Earth or the moon."
+  },
+  "bounded": {
+    "ko": "껑충 뛰었다",
+    "definition": "Moved forward with large jumps."
+  },
+  "shallow": {
+    "ko": "얕은",
+    "definition": "Not very deep."
+  },
+  "slipped": {
+    "ko": "미끄러졌다",
+    "definition": "Lost a firm hold on the ground."
+  },
+  "off-balance": {
+    "ko": "균형을 잃은",
+    "definition": "Not steady and likely to fall."
+  },
+  "steered": {
+    "ko": "운전 방향을 조절했다",
+    "definition": "Controlled the direction of a vehicle."
+  },
+  "pedal": {
+    "ko": "페달",
+    "definition": "A part pushed with a foot to control a machine."
+  },
+  "reverse": {
+    "ko": "후진",
+    "definition": "The setting that makes a vehicle move backward."
+  },
+  "lurched": {
+    "ko": "갑자기 덜컥 움직였다",
+    "definition": "Moved suddenly in an unsteady way."
+  },
+  "dashboard": {
+    "ko": "계기판",
+    "definition": "The panel of controls in front of a driver."
+  },
+  "hollows": {
+    "ko": "움푹 팬 곳들",
+    "definition": "Low places in the ground."
+  },
+  "bronco": {
+    "ko": "길들지 않은 말",
+    "definition": "A horse that may jump and kick when ridden."
+  },
+  "groaned": {
+    "ko": "신음했다",
+    "definition": "Made a low sound because of pain or trouble."
+  },
+  "relief": {
+    "ko": "안도감",
+    "definition": "A feeling of being less worried after a problem ends."
+  },
+  "telescope": {
+    "ko": "망원경",
+    "definition": "An instrument that makes distant things look nearer."
+  },
+  "peace": {
+    "ko": "평화",
+    "definition": "A state without fighting or harm."
+  },
+  "dizzy": {
+    "ko": "어지러운",
+    "definition": "Feeling as if things are spinning or moving."
+  },
+  "meteorite": {
+    "ko": "운석",
+    "definition": "A rock from space that has landed on a world."
+  },
+  "narrow": {
+    "ko": "좁은",
+    "definition": "Having little space from one side to the other."
+  },
+  "trapped": {
+    "ko": "갇힌",
+    "definition": "Unable to get out or move away."
+  },
+  "leaping": {
+    "ko": "뛰어오르는",
+    "definition": "Moving with a large jump."
+  },
+  "helmet": {
+    "ko": "헬멧",
+    "definition": "A hard covering that protects the head."
+  },
+  "jet pack": {
+    "ko": "제트 팩",
+    "definition": "Equipment worn on the back that can lift a person into the air."
+  },
+  "marks": {
+    "ko": "그려진 표시들",
+    "definition": "Lines or shapes made on a surface."
+  },
+  "constellation": {
+    "ko": "별자리",
+    "definition": "A group of stars that forms a pattern."
+  },
+  "scurried": {
+    "ko": "잽싸게 달렸다",
+    "definition": "Ran with quick, short steps."
+  },
+  "connected": {
+    "ko": "연결했다",
+    "definition": "Joined separate things together."
+  },
+  "chanted": {
+    "ko": "반복해서 외쳤다",
+    "definition": "Said the same words together in a repeated rhythm."
+  },
+  "blinding": {
+    "ko": "눈부신",
+    "definition": "So bright that it is difficult to see."
+  },
+  "whirling": {
+    "ko": "빙빙 도는",
+    "definition": "Spinning around quickly."
+  },
+  "magician": {
+    "ko": "마법사",
+    "definition": "A person who can perform magic in the story."
+  },
+  "shrugged": {
+    "ko": "어깨를 으쓱했다",
+    "definition": "Raised the shoulders to show uncertainty."
+  },
+  "wise": {
+    "ko": "지혜로운",
+    "definition": "Able to understand things and make good decisions."
+  },
+  "creatures": {
+    "ko": "생물들",
+    "definition": "Living beings, especially animals."
+  },
+  "impossible": {
+    "ko": "불가능한",
+    "definition": "Not able to happen or be done."
+  },
+  "breeze": {
+    "ko": "산들바람",
+    "definition": "A gentle wind."
+  },
+  "rustled": {
+    "ko": "바스락거렸다",
+    "definition": "Made a soft sound as leaves moved against each other."
+  },
+  "moist": {
+    "ko": "촉촉한",
+    "definition": "Slightly wet."
+  },
+  "scoffed": {
+    "ko": "코웃음 쳤다",
+    "definition": "Spoke in a way that showed disbelief."
+  },
+  "proof": {
+    "ko": "증거",
+    "definition": "Information that shows whether something is true."
+  },
+  "galaxy": {
+    "ko": "은하",
+    "definition": "A very large group of stars in space."
+  },
+  "universe": {
+    "ko": "우주 전체",
+    "definition": "All of space and everything in it."
+  },
+  "wonders": {
+    "ko": "경이로운 것들",
+    "definition": "Things that cause surprise and admiration."
+  }
+}
