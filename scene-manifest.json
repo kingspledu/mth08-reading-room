@@ -1,0 +1,4286 @@
+[
+  {
+    "id": "scene-0017",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_01",
+    "source_paragraphs": [
+      27,
+      28,
+      29
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0017.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      2,
+      5,
+      381,
+      252
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0018",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_01",
+    "source_paragraphs": [
+      30
+    ],
+    "sentence_markers": 1,
+    "status": "integrated",
+    "asset": "assets/scene-0018.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      391,
+      5,
+      763,
+      252
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0019",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_02",
+    "source_paragraphs": [
+      1,
+      2,
+      3
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0019.webp",
+    "page": "part-01-02.html",
+    "crop": [
+      773,
+      6,
+      1146,
+      252
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0020",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_02",
+    "source_paragraphs": [
+      4,
+      5,
+      6
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0020.webp",
+    "page": "part-01-02.html",
+    "crop": [
+      1157,
+      5,
+      1533,
+      252
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0021",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_02",
+    "source_paragraphs": [
+      7,
+      8
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0021.webp",
+    "page": "part-01-02.html",
+    "crop": [
+      4,
+      261,
+      381,
+      507
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0022",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_02",
+    "source_paragraphs": [
+      9,
+      10
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0022.webp",
+    "page": "part-01-02.html",
+    "crop": [
+      393,
+      261,
+      763,
+      507
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0023",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_02",
+    "source_paragraphs": [
+      11,
+      12
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0023.webp",
+    "page": "part-01-02.html",
+    "crop": [
+      774,
+      261,
+      1146,
+      507
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0024",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_02",
+    "source_paragraphs": [
+      13,
+      14
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0024.webp",
+    "page": "part-01-02.html",
+    "crop": [
+      1157,
+      261,
+      1533,
+      507
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0025",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_02",
+    "source_paragraphs": [
+      15,
+      16
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0025.webp",
+    "page": "part-01-02.html",
+    "crop": [
+      4,
+      517,
+      381,
+      761
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0026",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_02",
+    "source_paragraphs": [
+      17,
+      18
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0026.webp",
+    "page": "part-01-02.html",
+    "crop": [
+      392,
+      517,
+      763,
+      761
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0027",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_02",
+    "source_paragraphs": [
+      19,
+      20
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0027.webp",
+    "page": "part-01-02.html",
+    "crop": [
+      774,
+      517,
+      1146,
+      761
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0028",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_02",
+    "source_paragraphs": [
+      21,
+      22
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0028.webp",
+    "page": "part-01-02.html",
+    "crop": [
+      1157,
+      517,
+      1533,
+      761
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0029",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_02",
+    "source_paragraphs": [
+      23,
+      24
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0029.webp",
+    "page": "part-01-02.html",
+    "crop": [
+      6,
+      772,
+      381,
+      1020
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0030",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_02",
+    "source_paragraphs": [
+      25,
+      26
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0030.webp",
+    "page": "part-01-02.html",
+    "crop": [
+      392,
+      772,
+      763,
+      1020
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0031",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_02",
+    "source_paragraphs": [
+      27,
+      28,
+      29
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0031.webp",
+    "page": "part-01-02.html",
+    "crop": [
+      774,
+      772,
+      1146,
+      1020
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0032",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_02",
+    "source_paragraphs": [
+      30,
+      31,
+      32
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0032.webp",
+    "page": "part-01-02.html",
+    "crop": [
+      1157,
+      772,
+      1531,
+      1019
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0001",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_01",
+    "source_paragraphs": [
+      1,
+      2
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0001.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      3,
+      3,
+      358,
+      266
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0002",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_01",
+    "source_paragraphs": [
+      3
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0002.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      367,
+      3,
+      720,
+      266
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0003",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_01",
+    "source_paragraphs": [
+      4,
+      5
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0003.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      730,
+      3,
+      1082,
+      266
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0004",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_01",
+    "source_paragraphs": [
+      6,
+      7
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0004.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      1091,
+      3,
+      1446,
+      266
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0005",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_01",
+    "source_paragraphs": [
+      8,
+      9
+    ],
+    "sentence_markers": 5,
+    "status": "integrated",
+    "asset": "assets/scene-0005.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      2,
+      276,
+      357,
+      537
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0006",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_01",
+    "source_paragraphs": [
+      10,
+      11
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0006.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      367,
+      276,
+      721,
+      537
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0007",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_01",
+    "source_paragraphs": [
+      12
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0007.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      730,
+      276,
+      1081,
+      537
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0008",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_01",
+    "source_paragraphs": [
+      13,
+      14
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0008.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      1092,
+      276,
+      1446,
+      537
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0009",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_01",
+    "source_paragraphs": [
+      15,
+      16
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0009.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      2,
+      547,
+      356,
+      810
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0010",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_01",
+    "source_paragraphs": [
+      17
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0010.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      367,
+      547,
+      721,
+      810
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0011",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_01",
+    "source_paragraphs": [
+      18
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0011.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      730,
+      547,
+      1081,
+      810
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0012",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_01",
+    "source_paragraphs": [
+      19,
+      20
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0012.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      1092,
+      547,
+      1446,
+      810
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0013",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_01",
+    "source_paragraphs": [
+      21
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0013.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      2,
+      819,
+      356,
+      1084
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0014",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_01",
+    "source_paragraphs": [
+      22,
+      23
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0014.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      368,
+      819,
+      720,
+      1084
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0015",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_01",
+    "source_paragraphs": [
+      24
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0015.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      730,
+      819,
+      1080,
+      1084
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0016",
+    "chapter": 1,
+    "part_id": "B08_Chapter_01_Part_01",
+    "source_paragraphs": [
+      25,
+      26
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0016.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      1092,
+      819,
+      1446,
+      1084
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0033",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_01",
+    "source_paragraphs": [
+      1,
+      2
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0033.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      2,
+      2,
+      380,
+      251
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0034",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_01",
+    "source_paragraphs": [
+      3,
+      4
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0034.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      389,
+      2,
+      763,
+      251
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0035",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_01",
+    "source_paragraphs": [
+      5
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0035.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      774,
+      3,
+      1147,
+      251
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0036",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_01",
+    "source_paragraphs": [
+      6,
+      7
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0036.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      1158,
+      3,
+      1533,
+      251
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0037",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_01",
+    "source_paragraphs": [
+      8,
+      9
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0037.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      2,
+      260,
+      379,
+      506
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0038",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_01",
+    "source_paragraphs": [
+      10,
+      11
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0038.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      389,
+      260,
+      763,
+      506
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0039",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_01",
+    "source_paragraphs": [
+      12,
+      13
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0039.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      773,
+      260,
+      1147,
+      506
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0040",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_01",
+    "source_paragraphs": [
+      14,
+      15
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0040.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      1157,
+      260,
+      1534,
+      506
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0041",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_01",
+    "source_paragraphs": [
+      16,
+      17
+    ],
+    "sentence_markers": 5,
+    "status": "integrated",
+    "asset": "assets/scene-0041.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      2,
+      516,
+      380,
+      762
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0042",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_01",
+    "source_paragraphs": [
+      18,
+      19
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0042.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      389,
+      516,
+      763,
+      762
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0043",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_01",
+    "source_paragraphs": [
+      20
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0043.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      774,
+      516,
+      1147,
+      762
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0044",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_01",
+    "source_paragraphs": [
+      21
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0044.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      1157,
+      516,
+      1534,
+      762
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0045",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_01",
+    "source_paragraphs": [
+      22,
+      23
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0045.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      2,
+      771,
+      379,
+      1022
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0046",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_01",
+    "source_paragraphs": [
+      24,
+      25
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0046.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      389,
+      771,
+      763,
+      1022
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0047",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_01",
+    "source_paragraphs": [
+      26,
+      27
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0047.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      774,
+      771,
+      1147,
+      1022
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0048",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_01",
+    "source_paragraphs": [
+      28,
+      29
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0048.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      1157,
+      771,
+      1533,
+      1021
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0049",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_01",
+    "source_paragraphs": [
+      30,
+      31
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0049.webp",
+    "page": "part-02-01.html",
+    "crop": [
+      4,
+      3,
+      376,
+      253
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0050",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_02",
+    "source_paragraphs": [
+      1,
+      2,
+      3
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0050.webp",
+    "page": "part-02-02.html",
+    "crop": [
+      411,
+      3,
+      759,
+      253
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0051",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_02",
+    "source_paragraphs": [
+      4,
+      5
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0051.webp",
+    "page": "part-02-02.html",
+    "crop": [
+      780,
+      3,
+      1142,
+      253
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0052",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_02",
+    "source_paragraphs": [
+      6,
+      7
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0052.webp",
+    "page": "part-02-02.html",
+    "crop": [
+      1156,
+      2,
+      1533,
+      253
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0053",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_02",
+    "source_paragraphs": [
+      8,
+      9
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0053.webp",
+    "page": "part-02-02.html",
+    "crop": [
+      4,
+      261,
+      380,
+      508
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0054",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_02",
+    "source_paragraphs": [
+      10,
+      11
+    ],
+    "sentence_markers": 5,
+    "status": "integrated",
+    "asset": "assets/scene-0054.webp",
+    "page": "part-02-02.html",
+    "crop": [
+      389,
+      261,
+      764,
+      508
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0055",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_02",
+    "source_paragraphs": [
+      12,
+      13
+    ],
+    "sentence_markers": 5,
+    "status": "integrated",
+    "asset": "assets/scene-0055.webp",
+    "page": "part-02-02.html",
+    "crop": [
+      772,
+      261,
+      1147,
+      508
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0056",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_02",
+    "source_paragraphs": [
+      14,
+      15
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0056.webp",
+    "page": "part-02-02.html",
+    "crop": [
+      1157,
+      261,
+      1532,
+      508
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0057",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_02",
+    "source_paragraphs": [
+      16,
+      17
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0057.webp",
+    "page": "part-02-02.html",
+    "crop": [
+      2,
+      516,
+      380,
+      763
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0058",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_02",
+    "source_paragraphs": [
+      18,
+      19
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0058.webp",
+    "page": "part-02-02.html",
+    "crop": [
+      388,
+      516,
+      764,
+      763
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0059",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_02",
+    "source_paragraphs": [
+      20,
+      21,
+      22
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0059.webp",
+    "page": "part-02-02.html",
+    "crop": [
+      772,
+      516,
+      1050,
+      763
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0060",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_02",
+    "source_paragraphs": [
+      23,
+      24
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0060.webp",
+    "page": "part-02-02.html",
+    "crop": [
+      1130,
+      516,
+      1533,
+      763
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0061",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_02",
+    "source_paragraphs": [
+      25,
+      26
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0061.webp",
+    "page": "part-02-02.html",
+    "crop": [
+      4,
+      772,
+      380,
+      1021
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0062",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_02",
+    "source_paragraphs": [
+      27
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0062.webp",
+    "page": "part-02-02.html",
+    "crop": [
+      388,
+      772,
+      764,
+      1021
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0063",
+    "chapter": 2,
+    "part_id": "B08_Chapter_02_Part_02",
+    "source_paragraphs": [
+      28
+    ],
+    "sentence_markers": 1,
+    "status": "integrated",
+    "asset": "assets/scene-0063.webp",
+    "page": "part-02-02.html",
+    "crop": [
+      772,
+      772,
+      1148,
+      1022
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0064",
+    "chapter": 3,
+    "part_id": "B08_Chapter_03_Part_01",
+    "source_paragraphs": [
+      1,
+      2
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0064.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      6,
+      4,
+      380,
+      251
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0065",
+    "chapter": 3,
+    "part_id": "B08_Chapter_03_Part_01",
+    "source_paragraphs": [
+      3
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0065.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      392,
+      4,
+      763,
+      251
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0066",
+    "chapter": 3,
+    "part_id": "B08_Chapter_03_Part_01",
+    "source_paragraphs": [
+      4
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0066.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      775,
+      4,
+      1146,
+      251
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0067",
+    "chapter": 3,
+    "part_id": "B08_Chapter_03_Part_01",
+    "source_paragraphs": [
+      5,
+      6
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0067.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      1159,
+      4,
+      1534,
+      251
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0068",
+    "chapter": 3,
+    "part_id": "B08_Chapter_03_Part_01",
+    "source_paragraphs": [
+      7,
+      8
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0068.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      2,
+      262,
+      380,
+      506
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0069",
+    "chapter": 3,
+    "part_id": "B08_Chapter_03_Part_01",
+    "source_paragraphs": [
+      9,
+      10,
+      11
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0069.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      392,
+      262,
+      762,
+      506
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0070",
+    "chapter": 3,
+    "part_id": "B08_Chapter_03_Part_01",
+    "source_paragraphs": [
+      12
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0070.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      775,
+      262,
+      1146,
+      506
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0071",
+    "chapter": 3,
+    "part_id": "B08_Chapter_03_Part_01",
+    "source_paragraphs": [
+      13,
+      14
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0071.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      1159,
+      262,
+      1532,
+      506
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0072",
+    "chapter": 3,
+    "part_id": "B08_Chapter_03_Part_01",
+    "source_paragraphs": [
+      15,
+      16
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0072.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      4,
+      517,
+      380,
+      762
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0073",
+    "chapter": 3,
+    "part_id": "B08_Chapter_03_Part_01",
+    "source_paragraphs": [
+      17,
+      18
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0073.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      392,
+      517,
+      763,
+      762
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0074",
+    "chapter": 3,
+    "part_id": "B08_Chapter_03_Part_01",
+    "source_paragraphs": [
+      19,
+      20,
+      21
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0074.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      775,
+      517,
+      1147,
+      762
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0075",
+    "chapter": 3,
+    "part_id": "B08_Chapter_03_Part_01",
+    "source_paragraphs": [
+      22
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0075.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      1159,
+      517,
+      1532,
+      762
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0076",
+    "chapter": 3,
+    "part_id": "B08_Chapter_03_Part_01",
+    "source_paragraphs": [
+      23,
+      24
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0076.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      4,
+      773,
+      380,
+      1020
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0077",
+    "chapter": 3,
+    "part_id": "B08_Chapter_03_Part_01",
+    "source_paragraphs": [
+      25,
+      26
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0077.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      392,
+      773,
+      763,
+      1021
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0078",
+    "chapter": 3,
+    "part_id": "B08_Chapter_03_Part_01",
+    "source_paragraphs": [
+      27
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0078.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      775,
+      773,
+      1147,
+      1020
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0079",
+    "chapter": 3,
+    "part_id": "B08_Chapter_03_Part_01",
+    "source_paragraphs": [
+      28
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0079.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      1159,
+      773,
+      1532,
+      1019
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0080",
+    "chapter": 3,
+    "part_id": "B08_Chapter_03_Part_01",
+    "source_paragraphs": [
+      29,
+      30
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0080.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      3,
+      2,
+      311,
+      294
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0081",
+    "chapter": 3,
+    "part_id": "B08_Chapter_03_Part_01",
+    "source_paragraphs": [
+      31,
+      32
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0081.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      320,
+      2,
+      626,
+      294
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0082",
+    "chapter": 3,
+    "part_id": "B08_Chapter_03_Part_01",
+    "source_paragraphs": [
+      33,
+      34
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0082.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      635,
+      2,
+      941,
+      294
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0083",
+    "chapter": 3,
+    "part_id": "B08_Chapter_03_Part_01",
+    "source_paragraphs": [
+      35,
+      36
+    ],
+    "sentence_markers": 5,
+    "status": "integrated",
+    "asset": "assets/scene-0083.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      950,
+      2,
+      1259,
+      294
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0084",
+    "chapter": 3,
+    "part_id": "B08_Chapter_03_Part_01",
+    "source_paragraphs": [
+      37
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0084.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      2,
+      303,
+      311,
+      592
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0085",
+    "chapter": 3,
+    "part_id": "B08_Chapter_03_Part_01",
+    "source_paragraphs": [
+      38,
+      39
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0085.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      320,
+      303,
+      626,
+      592
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0086",
+    "chapter": 3,
+    "part_id": "B08_Chapter_03_Part_01",
+    "source_paragraphs": [
+      40
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0086.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      635,
+      303,
+      941,
+      592
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0087",
+    "chapter": 3,
+    "part_id": "B08_Chapter_03_Part_01",
+    "source_paragraphs": [
+      41,
+      42
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0087.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      950,
+      303,
+      1259,
+      592
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0088",
+    "chapter": 3,
+    "part_id": "B08_Chapter_03_Part_01",
+    "source_paragraphs": [
+      43,
+      44
+    ],
+    "sentence_markers": 5,
+    "status": "integrated",
+    "asset": "assets/scene-0088.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      2,
+      600,
+      311,
+      891
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0089",
+    "chapter": 3,
+    "part_id": "B08_Chapter_03_Part_01",
+    "source_paragraphs": [
+      45
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0089.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      320,
+      600,
+      627,
+      891
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0090",
+    "chapter": 3,
+    "part_id": "B08_Chapter_03_Part_01",
+    "source_paragraphs": [
+      46
+    ],
+    "sentence_markers": 6,
+    "status": "integrated",
+    "asset": "assets/scene-0090.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      635,
+      600,
+      941,
+      891
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0091",
+    "chapter": 3,
+    "part_id": "B08_Chapter_03_Part_01",
+    "source_paragraphs": [
+      47
+    ],
+    "sentence_markers": 1,
+    "status": "integrated",
+    "asset": "assets/scene-0091.webp",
+    "page": "part-03-01.html",
+    "crop": [
+      950,
+      600,
+      1259,
+      891
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0092",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_01",
+    "source_paragraphs": [
+      1
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0092.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      2,
+      2,
+      309,
+      309
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0093",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_01",
+    "source_paragraphs": [
+      2,
+      3
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0093.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      320,
+      3,
+      624,
+      309
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0094",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_01",
+    "source_paragraphs": [
+      4,
+      5
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0094.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      635,
+      3,
+      938,
+      309
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0095",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_01",
+    "source_paragraphs": [
+      6,
+      7
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0095.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      950,
+      2,
+      1256,
+      309
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0096",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_01",
+    "source_paragraphs": [
+      8,
+      9
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0096.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      2,
+      318,
+      310,
+      621
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0097",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_01",
+    "source_paragraphs": [
+      10,
+      11
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0097.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      321,
+      318,
+      625,
+      621
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0098",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_01",
+    "source_paragraphs": [
+      12,
+      13
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0098.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      635,
+      318,
+      939,
+      621
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0099",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_01",
+    "source_paragraphs": [
+      14
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0099.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      950,
+      318,
+      1256,
+      621
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0100",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_01",
+    "source_paragraphs": [
+      15,
+      16
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0100.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      2,
+      629,
+      309,
+      932
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0101",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_01",
+    "source_paragraphs": [
+      17,
+      18
+    ],
+    "sentence_markers": 5,
+    "status": "integrated",
+    "asset": "assets/scene-0101.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      320,
+      629,
+      625,
+      932
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0102",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_01",
+    "source_paragraphs": [
+      19,
+      20,
+      21
+    ],
+    "sentence_markers": 7,
+    "status": "integrated",
+    "asset": "assets/scene-0102.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      635,
+      629,
+      939,
+      932
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0103",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_01",
+    "source_paragraphs": [
+      22
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0103.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      950,
+      629,
+      1256,
+      932
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0104",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_01",
+    "source_paragraphs": [
+      23,
+      24,
+      25
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0104.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      2,
+      940,
+      309,
+      1247
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0105",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_01",
+    "source_paragraphs": [
+      26
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0105.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      320,
+      940,
+      624,
+      1247
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0106",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_01",
+    "source_paragraphs": [
+      27
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0106.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      635,
+      940,
+      939,
+      1247
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0107",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_01",
+    "source_paragraphs": [
+      28,
+      29
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0107.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      950,
+      940,
+      1256,
+      1247
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0108",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_01",
+    "source_paragraphs": [
+      30,
+      31
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0108.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      2,
+      3,
+      380,
+      252
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0109",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_01",
+    "source_paragraphs": [
+      32
+    ],
+    "sentence_markers": 1,
+    "status": "integrated",
+    "asset": "assets/scene-0109.webp",
+    "page": "part-04-01.html",
+    "crop": [
+      390,
+      3,
+      764,
+      252
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0110",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_02",
+    "source_paragraphs": [
+      1,
+      2
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0110.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      774,
+      3,
+      1148,
+      252
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0111",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_02",
+    "source_paragraphs": [
+      3,
+      4
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0111.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      1157,
+      2,
+      1534,
+      252
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0112",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_02",
+    "source_paragraphs": [
+      5,
+      6
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0112.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      2,
+      261,
+      380,
+      507
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0113",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_02",
+    "source_paragraphs": [
+      7,
+      8
+    ],
+    "sentence_markers": 5,
+    "status": "integrated",
+    "asset": "assets/scene-0113.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      390,
+      261,
+      764,
+      507
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0114",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_02",
+    "source_paragraphs": [
+      9
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0114.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      774,
+      261,
+      1147,
+      507
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0115",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_02",
+    "source_paragraphs": [
+      10,
+      11
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0115.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      1157,
+      261,
+      1534,
+      507
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0116",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_02",
+    "source_paragraphs": [
+      12,
+      13
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0116.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      2,
+      517,
+      380,
+      763
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0117",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_02",
+    "source_paragraphs": [
+      14
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0117.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      390,
+      517,
+      764,
+      763
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0118",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_02",
+    "source_paragraphs": [
+      15,
+      16
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0118.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      774,
+      517,
+      1148,
+      763
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0119",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_02",
+    "source_paragraphs": [
+      17
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0119.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      1157,
+      517,
+      1534,
+      763
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0120",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_02",
+    "source_paragraphs": [
+      18,
+      19
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0120.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      2,
+      773,
+      380,
+      1021
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0121",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_02",
+    "source_paragraphs": [
+      20
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0121.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      390,
+      773,
+      764,
+      1022
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0122",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_02",
+    "source_paragraphs": [
+      21,
+      22
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0122.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      774,
+      773,
+      1147,
+      1021
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0123",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_02",
+    "source_paragraphs": [
+      23,
+      24,
+      25
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0123.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      1157,
+      773,
+      1534,
+      1022
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0124",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_02",
+    "source_paragraphs": [
+      26,
+      27
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0124.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      2,
+      2,
+      382,
+      254
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0125",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_02",
+    "source_paragraphs": [
+      28,
+      29,
+      30
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0125.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      386,
+      2,
+      766,
+      254
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0126",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_02",
+    "source_paragraphs": [
+      31,
+      32
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0126.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      770,
+      2,
+      1150,
+      254
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0127",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_02",
+    "source_paragraphs": [
+      33,
+      34
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0127.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      1154,
+      2,
+      1534,
+      254
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0128",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_02",
+    "source_paragraphs": [
+      35,
+      36
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0128.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      2,
+      258,
+      382,
+      510
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0129",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_02",
+    "source_paragraphs": [
+      37,
+      38
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0129.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      386,
+      258,
+      766,
+      510
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0130",
+    "chapter": 4,
+    "part_id": "B08_Chapter_04_Part_02",
+    "source_paragraphs": [
+      39,
+      40
+    ],
+    "sentence_markers": 2,
+    "status": "integrated",
+    "asset": "assets/scene-0130.webp",
+    "page": "part-04-02.html",
+    "crop": [
+      770,
+      258,
+      1150,
+      510
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0131",
+    "chapter": 5,
+    "part_id": "B08_Chapter_05_Part_01",
+    "source_paragraphs": [
+      1,
+      2
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0131.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      3,
+      2,
+      379,
+      251
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0132",
+    "chapter": 5,
+    "part_id": "B08_Chapter_05_Part_01",
+    "source_paragraphs": [
+      3,
+      4,
+      5
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0132.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      390,
+      2,
+      764,
+      251
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0133",
+    "chapter": 5,
+    "part_id": "B08_Chapter_05_Part_01",
+    "source_paragraphs": [
+      6,
+      7
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0133.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      773,
+      2,
+      1148,
+      251
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0134",
+    "chapter": 5,
+    "part_id": "B08_Chapter_05_Part_01",
+    "source_paragraphs": [
+      8,
+      9
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0134.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      1157,
+      2,
+      1534,
+      251
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0135",
+    "chapter": 5,
+    "part_id": "B08_Chapter_05_Part_01",
+    "source_paragraphs": [
+      10,
+      11
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0135.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      2,
+      260,
+      379,
+      507
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0136",
+    "chapter": 5,
+    "part_id": "B08_Chapter_05_Part_01",
+    "source_paragraphs": [
+      12
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0136.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      390,
+      260,
+      764,
+      507
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0137",
+    "chapter": 5,
+    "part_id": "B08_Chapter_05_Part_01",
+    "source_paragraphs": [
+      13,
+      14
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0137.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      774,
+      260,
+      1148,
+      507
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0138",
+    "chapter": 5,
+    "part_id": "B08_Chapter_05_Part_01",
+    "source_paragraphs": [
+      15,
+      16
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0138.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      1158,
+      260,
+      1534,
+      507
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0139",
+    "chapter": 5,
+    "part_id": "B08_Chapter_05_Part_01",
+    "source_paragraphs": [
+      17,
+      18
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0139.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      2,
+      516,
+      380,
+      764
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0140",
+    "chapter": 5,
+    "part_id": "B08_Chapter_05_Part_01",
+    "source_paragraphs": [
+      19,
+      20
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0140.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      390,
+      516,
+      764,
+      764
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0141",
+    "chapter": 5,
+    "part_id": "B08_Chapter_05_Part_01",
+    "source_paragraphs": [
+      21,
+      22
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0141.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      773,
+      516,
+      1148,
+      764
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0142",
+    "chapter": 5,
+    "part_id": "B08_Chapter_05_Part_01",
+    "source_paragraphs": [
+      23,
+      24
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0142.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      1158,
+      516,
+      1534,
+      764
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0143",
+    "chapter": 5,
+    "part_id": "B08_Chapter_05_Part_01",
+    "source_paragraphs": [
+      25,
+      26
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0143.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      2,
+      772,
+      380,
+      1022
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0144",
+    "chapter": 5,
+    "part_id": "B08_Chapter_05_Part_01",
+    "source_paragraphs": [
+      27,
+      28
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0144.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      390,
+      772,
+      764,
+      1022
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0145",
+    "chapter": 5,
+    "part_id": "B08_Chapter_05_Part_01",
+    "source_paragraphs": [
+      29,
+      30,
+      31
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0145.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      774,
+      772,
+      1148,
+      1022
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0146",
+    "chapter": 5,
+    "part_id": "B08_Chapter_05_Part_01",
+    "source_paragraphs": [
+      32,
+      33
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0146.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      1158,
+      772,
+      1534,
+      1022
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0147",
+    "chapter": 5,
+    "part_id": "B08_Chapter_05_Part_01",
+    "source_paragraphs": [
+      34,
+      35
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0147.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      3,
+      3,
+      378,
+      251
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0148",
+    "chapter": 5,
+    "part_id": "B08_Chapter_05_Part_01",
+    "source_paragraphs": [
+      36
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0148.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      391,
+      3,
+      762,
+      251
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0149",
+    "chapter": 5,
+    "part_id": "B08_Chapter_05_Part_01",
+    "source_paragraphs": [
+      37,
+      38
+    ],
+    "sentence_markers": 5,
+    "status": "integrated",
+    "asset": "assets/scene-0149.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      775,
+      5,
+      1146,
+      251
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0150",
+    "chapter": 5,
+    "part_id": "B08_Chapter_05_Part_01",
+    "source_paragraphs": [
+      39,
+      40
+    ],
+    "sentence_markers": 3,
+    "status": "integrated",
+    "asset": "assets/scene-0150.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      1158,
+      5,
+      1532,
+      251
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0151",
+    "chapter": 5,
+    "part_id": "B08_Chapter_05_Part_01",
+    "source_paragraphs": [
+      41,
+      42
+    ],
+    "sentence_markers": 4,
+    "status": "integrated",
+    "asset": "assets/scene-0151.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      3,
+      262,
+      378,
+      507
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0152",
+    "chapter": 5,
+    "part_id": "B08_Chapter_05_Part_01",
+    "source_paragraphs": [
+      43
+    ],
+    "sentence_markers": 1,
+    "status": "integrated",
+    "asset": "assets/scene-0152.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      391,
+      262,
+      762,
+      507
+    ],
+    "review_status": "Chapters1-5 actual gutters and contact sheets visually reviewed; buggy, flag/telescope and distant moon-man continuity checked."
+  },
+  {
+    "id": "scene-0153",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_01",
+    "source_paragraphs": [
+      1,
+      2
+    ],
+    "sentence_markers": 5,
+    "status": "reviewed",
+    "asset": "assets/scene-0153.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      5,
+      6,
+      380,
+      253
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0154",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_01",
+    "source_paragraphs": [
+      3
+    ],
+    "sentence_markers": 4,
+    "status": "reviewed",
+    "asset": "assets/scene-0154.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      393,
+      4,
+      762,
+      253
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0155",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_01",
+    "source_paragraphs": [
+      4,
+      5
+    ],
+    "sentence_markers": 5,
+    "status": "reviewed",
+    "asset": "assets/scene-0155.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      775,
+      6,
+      1144,
+      253
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0156",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_01",
+    "source_paragraphs": [
+      6
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0156.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      1158,
+      6,
+      1529,
+      253
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0157",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_01",
+    "source_paragraphs": [
+      7
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0157.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      7,
+      264,
+      381,
+      506
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0158",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_01",
+    "source_paragraphs": [
+      8
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0158.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      394,
+      264,
+      762,
+      506
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0159",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_01",
+    "source_paragraphs": [
+      9,
+      10
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0159.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      776,
+      264,
+      1144,
+      506
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0160",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_01",
+    "source_paragraphs": [
+      11,
+      12
+    ],
+    "sentence_markers": 4,
+    "status": "reviewed",
+    "asset": "assets/scene-0160.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      1158,
+      264,
+      1529,
+      506
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0161",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_01",
+    "source_paragraphs": [
+      13,
+      14
+    ],
+    "sentence_markers": 5,
+    "status": "reviewed",
+    "asset": "assets/scene-0161.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      6,
+      518,
+      381,
+      759
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0162",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_01",
+    "source_paragraphs": [
+      15
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0162.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      394,
+      518,
+      762,
+      759
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0163",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_01",
+    "source_paragraphs": [
+      16,
+      17
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0163.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      776,
+      518,
+      1144,
+      759
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0164",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_01",
+    "source_paragraphs": [
+      18,
+      19
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0164.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      1159,
+      518,
+      1530,
+      759
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0165",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_01",
+    "source_paragraphs": [
+      20
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0165.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      6,
+      770,
+      381,
+      1018
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0166",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_01",
+    "source_paragraphs": [
+      21,
+      22
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0166.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      394,
+      770,
+      762,
+      1017
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0167",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_01",
+    "source_paragraphs": [
+      23,
+      24
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0167.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      776,
+      770,
+      1144,
+      1017
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0168",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_01",
+    "source_paragraphs": [
+      25
+    ],
+    "sentence_markers": 1,
+    "status": "reviewed",
+    "asset": "assets/scene-0168.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      1159,
+      770,
+      1528,
+      1018
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0169",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_02",
+    "source_paragraphs": [
+      1,
+      2
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0169.webp",
+    "page": "part-06-02.html",
+    "crop": [
+      6,
+      6,
+      379,
+      252
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0170",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_02",
+    "source_paragraphs": [
+      3
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0170.webp",
+    "page": "part-06-02.html",
+    "crop": [
+      391,
+      6,
+      763,
+      252
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0171",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_02",
+    "source_paragraphs": [
+      4,
+      5
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0171.webp",
+    "page": "part-06-02.html",
+    "crop": [
+      775,
+      6,
+      1146,
+      252
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0172",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_02",
+    "source_paragraphs": [
+      6,
+      7
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0172.webp",
+    "page": "part-06-02.html",
+    "crop": [
+      1158,
+      6,
+      1531,
+      252
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0173",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_02",
+    "source_paragraphs": [
+      8,
+      9
+    ],
+    "sentence_markers": 4,
+    "status": "reviewed",
+    "asset": "assets/scene-0173.webp",
+    "page": "part-06-02.html",
+    "crop": [
+      4,
+      262,
+      379,
+      506
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0174",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_02",
+    "source_paragraphs": [
+      10,
+      11
+    ],
+    "sentence_markers": 5,
+    "status": "reviewed",
+    "asset": "assets/scene-0174.webp",
+    "page": "part-06-02.html",
+    "crop": [
+      391,
+      262,
+      763,
+      506
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0175",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_02",
+    "source_paragraphs": [
+      12,
+      13
+    ],
+    "sentence_markers": 5,
+    "status": "reviewed",
+    "asset": "assets/scene-0175.webp",
+    "page": "part-06-02.html",
+    "crop": [
+      775,
+      262,
+      1147,
+      506
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0176",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_02",
+    "source_paragraphs": [
+      14,
+      15
+    ],
+    "sentence_markers": 5,
+    "status": "reviewed",
+    "asset": "assets/scene-0176.webp",
+    "page": "part-06-02.html",
+    "crop": [
+      1158,
+      262,
+      1531,
+      506
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0177",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_02",
+    "source_paragraphs": [
+      16
+    ],
+    "sentence_markers": 4,
+    "status": "reviewed",
+    "asset": "assets/scene-0177.webp",
+    "page": "part-06-02.html",
+    "crop": [
+      4,
+      517,
+      379,
+      761
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0178",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_02",
+    "source_paragraphs": [
+      17,
+      18
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0178.webp",
+    "page": "part-06-02.html",
+    "crop": [
+      391,
+      517,
+      763,
+      761
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0179",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_02",
+    "source_paragraphs": [
+      19,
+      20,
+      21
+    ],
+    "sentence_markers": 4,
+    "status": "reviewed",
+    "asset": "assets/scene-0179.webp",
+    "page": "part-06-02.html",
+    "crop": [
+      775,
+      517,
+      1146,
+      761
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0180",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_02",
+    "source_paragraphs": [
+      22,
+      23
+    ],
+    "sentence_markers": 4,
+    "status": "reviewed",
+    "asset": "assets/scene-0180.webp",
+    "page": "part-06-02.html",
+    "crop": [
+      1159,
+      517,
+      1531,
+      761
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0181",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_02",
+    "source_paragraphs": [
+      24,
+      25
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0181.webp",
+    "page": "part-06-02.html",
+    "crop": [
+      2,
+      772,
+      379,
+      1019
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0182",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_02",
+    "source_paragraphs": [
+      26,
+      27
+    ],
+    "sentence_markers": 4,
+    "status": "reviewed",
+    "asset": "assets/scene-0182.webp",
+    "page": "part-06-02.html",
+    "crop": [
+      391,
+      772,
+      763,
+      1019
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0183",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_02",
+    "source_paragraphs": [
+      28,
+      29
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0183.webp",
+    "page": "part-06-02.html",
+    "crop": [
+      775,
+      772,
+      1146,
+      1020
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0184",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_02",
+    "source_paragraphs": [
+      30,
+      31
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0184.webp",
+    "page": "part-06-02.html",
+    "crop": [
+      1158,
+      772,
+      1531,
+      1020
+    ],
+    "review_status": "Regenerated source-mapped scene153-184. Both overlays, all32 contact crops, native159/179 inspected. Duplicate Annie removed; Jack driver; correct brake/meteorite/book sequence; Annie supine and Jack prone after jump; no bubbles."
+  },
+  {
+    "id": "scene-0185",
+    "chapter": 6,
+    "part_id": "B08_Chapter_06_Part_02",
+    "source_paragraphs": [
+      32
+    ],
+    "sentence_markers": 1,
+    "status": "reviewed",
+    "asset": "assets/scene-0185.webp",
+    "page": "part-06-02.html",
+    "crop": [
+      3,
+      3,
+      307,
+      304
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0186",
+    "chapter": 7,
+    "part_id": "B08_Chapter_07_Part_01",
+    "source_paragraphs": [
+      1,
+      2,
+      3
+    ],
+    "sentence_markers": 4,
+    "status": "reviewed",
+    "asset": "assets/scene-0186.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      321,
+      4,
+      622,
+      304
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0187",
+    "chapter": 7,
+    "part_id": "B08_Chapter_07_Part_01",
+    "source_paragraphs": [
+      4
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0187.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      636,
+      4,
+      935,
+      304
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0188",
+    "chapter": 7,
+    "part_id": "B08_Chapter_07_Part_01",
+    "source_paragraphs": [
+      5,
+      6,
+      7
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0188.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      947,
+      4,
+      1251,
+      304
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0189",
+    "chapter": 7,
+    "part_id": "B08_Chapter_07_Part_01",
+    "source_paragraphs": [
+      8,
+      9
+    ],
+    "sentence_markers": 5,
+    "status": "reviewed",
+    "asset": "assets/scene-0189.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      4,
+      317,
+      308,
+      611
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0190",
+    "chapter": 7,
+    "part_id": "B08_Chapter_07_Part_01",
+    "source_paragraphs": [
+      10
+    ],
+    "sentence_markers": 5,
+    "status": "reviewed",
+    "asset": "assets/scene-0190.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      322,
+      317,
+      622,
+      611
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0191",
+    "chapter": 7,
+    "part_id": "B08_Chapter_07_Part_01",
+    "source_paragraphs": [
+      11,
+      12
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0191.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      636,
+      317,
+      935,
+      611
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0192",
+    "chapter": 7,
+    "part_id": "B08_Chapter_07_Part_01",
+    "source_paragraphs": [
+      13,
+      14
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0192.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      949,
+      317,
+      1251,
+      611
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0193",
+    "chapter": 7,
+    "part_id": "B08_Chapter_07_Part_01",
+    "source_paragraphs": [
+      15,
+      16
+    ],
+    "sentence_markers": 4,
+    "status": "reviewed",
+    "asset": "assets/scene-0193.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      4,
+      624,
+      308,
+      920
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0194",
+    "chapter": 7,
+    "part_id": "B08_Chapter_07_Part_01",
+    "source_paragraphs": [
+      17,
+      18
+    ],
+    "sentence_markers": 5,
+    "status": "reviewed",
+    "asset": "assets/scene-0194.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      322,
+      624,
+      622,
+      920
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0195",
+    "chapter": 7,
+    "part_id": "B08_Chapter_07_Part_01",
+    "source_paragraphs": [
+      19,
+      20
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0195.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      636,
+      624,
+      935,
+      920
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0196",
+    "chapter": 7,
+    "part_id": "B08_Chapter_07_Part_01",
+    "source_paragraphs": [
+      21,
+      22
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0196.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      950,
+      624,
+      1251,
+      920
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0197",
+    "chapter": 7,
+    "part_id": "B08_Chapter_07_Part_01",
+    "source_paragraphs": [
+      23,
+      24
+    ],
+    "sentence_markers": 4,
+    "status": "reviewed",
+    "asset": "assets/scene-0197.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      6,
+      932,
+      308,
+      1233
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0198",
+    "chapter": 7,
+    "part_id": "B08_Chapter_07_Part_01",
+    "source_paragraphs": [
+      25,
+      26
+    ],
+    "sentence_markers": 4,
+    "status": "reviewed",
+    "asset": "assets/scene-0198.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      322,
+      932,
+      622,
+      1231
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0199",
+    "chapter": 7,
+    "part_id": "B08_Chapter_07_Part_01",
+    "source_paragraphs": [
+      27,
+      28
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0199.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      636,
+      932,
+      935,
+      1232
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0200",
+    "chapter": 7,
+    "part_id": "B08_Chapter_07_Part_01",
+    "source_paragraphs": [
+      29
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0200.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      949,
+      932,
+      1251,
+      1231
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0201",
+    "chapter": 7,
+    "part_id": "B08_Chapter_07_Part_01",
+    "source_paragraphs": [
+      30
+    ],
+    "sentence_markers": 2,
+    "status": "reviewed",
+    "asset": "assets/scene-0201.webp",
+    "page": "part-07-01.html",
+    "crop": [
+      4,
+      6,
+      311,
+      309
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0202",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_01",
+    "source_paragraphs": [
+      1
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0202.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      322,
+      6,
+      624,
+      309
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0203",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_01",
+    "source_paragraphs": [
+      2,
+      3
+    ],
+    "sentence_markers": 6,
+    "status": "reviewed",
+    "asset": "assets/scene-0203.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      635,
+      6,
+      936,
+      309
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0204",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_01",
+    "source_paragraphs": [
+      4,
+      5
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0204.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      947,
+      4,
+      1252,
+      309
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0205",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_01",
+    "source_paragraphs": [
+      6,
+      7
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0205.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      4,
+      321,
+      311,
+      619
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0206",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_01",
+    "source_paragraphs": [
+      8
+    ],
+    "sentence_markers": 4,
+    "status": "reviewed",
+    "asset": "assets/scene-0206.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      323,
+      321,
+      624,
+      619
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0207",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_01",
+    "source_paragraphs": [
+      9
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0207.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      635,
+      321,
+      935,
+      619
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0208",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_01",
+    "source_paragraphs": [
+      10,
+      11
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0208.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      947,
+      321,
+      1254,
+      619
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0209",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_01",
+    "source_paragraphs": [
+      12,
+      13
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0209.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      6,
+      630,
+      311,
+      934
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0210",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_01",
+    "source_paragraphs": [
+      14
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0210.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      323,
+      630,
+      624,
+      934
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0211",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_01",
+    "source_paragraphs": [
+      15,
+      16
+    ],
+    "sentence_markers": 4,
+    "status": "reviewed",
+    "asset": "assets/scene-0211.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      636,
+      630,
+      935,
+      934
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0212",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_01",
+    "source_paragraphs": [
+      17,
+      18,
+      19
+    ],
+    "sentence_markers": 5,
+    "status": "reviewed",
+    "asset": "assets/scene-0212.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      947,
+      630,
+      1251,
+      934
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0213",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_01",
+    "source_paragraphs": [
+      20,
+      21
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0213.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      6,
+      946,
+      311,
+      1243
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0214",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_01",
+    "source_paragraphs": [
+      22,
+      23
+    ],
+    "sentence_markers": 6,
+    "status": "reviewed",
+    "asset": "assets/scene-0214.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      323,
+      946,
+      624,
+      1243
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0215",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_01",
+    "source_paragraphs": [
+      24,
+      25
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0215.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      636,
+      946,
+      935,
+      1243
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0216",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_01",
+    "source_paragraphs": [
+      26
+    ],
+    "sentence_markers": 2,
+    "status": "reviewed",
+    "asset": "assets/scene-0216.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      948,
+      946,
+      1253,
+      1245
+    ],
+    "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  }
+]
