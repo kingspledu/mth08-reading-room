@@ -4282,5 +4282,329 @@
       1245
     ],
     "review_status": "Source-mapped cross-chapter185-216; stars193 premature content corrected; both overlays/32contacts/native193,210,216 reviewed. Suit removal209,glasses210,mouse214,map216 checked."
+  },
+  {
+    "id": "scene-0217",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_02",
+    "source_paragraphs": [
+      1
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0217.webp",
+    "page": "part-08-02.html",
+    "crop": [
+      9,
+      8,
+      380,
+      257
+    ],
+    "review_status": "Source timing, references, full contact/actual gutter overlay/native crops visually checked. No adjacent panels or premature transformation."
+  },
+  {
+    "id": "scene-0218",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_02",
+    "source_paragraphs": [
+      2,
+      3,
+      4
+    ],
+    "sentence_markers": 4,
+    "status": "reviewed",
+    "asset": "assets/scene-0218.webp",
+    "page": "part-08-02.html",
+    "crop": [
+      393,
+      8,
+      762,
+      257
+    ],
+    "review_status": "Source timing, references, full contact/actual gutter overlay/native crops visually checked. No adjacent panels or premature transformation."
+  },
+  {
+    "id": "scene-0219",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_02",
+    "source_paragraphs": [
+      5,
+      6
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0219.webp",
+    "page": "part-08-02.html",
+    "crop": [
+      776,
+      9,
+      1145,
+      257
+    ],
+    "review_status": "Source timing, references, full contact/actual gutter overlay/native crops visually checked. No adjacent panels or premature transformation."
+  },
+  {
+    "id": "scene-0220",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_02",
+    "source_paragraphs": [
+      7,
+      8
+    ],
+    "sentence_markers": 4,
+    "status": "reviewed",
+    "asset": "assets/scene-0220.webp",
+    "page": "part-08-02.html",
+    "crop": [
+      1158,
+      8,
+      1527,
+      257
+    ],
+    "review_status": "Source timing, references, full contact/actual gutter overlay/native crops visually checked. No adjacent panels or premature transformation."
+  },
+  {
+    "id": "scene-0221",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_02",
+    "source_paragraphs": [
+      9,
+      10
+    ],
+    "sentence_markers": 4,
+    "status": "reviewed",
+    "asset": "assets/scene-0221.webp",
+    "page": "part-08-02.html",
+    "crop": [
+      9,
+      269,
+      380,
+      505
+    ],
+    "review_status": "Source timing, references, full contact/actual gutter overlay/native crops visually checked. No adjacent panels or premature transformation."
+  },
+  {
+    "id": "scene-0222",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_02",
+    "source_paragraphs": [
+      11,
+      12
+    ],
+    "sentence_markers": 6,
+    "status": "reviewed",
+    "asset": "assets/scene-0222.webp",
+    "page": "part-08-02.html",
+    "crop": [
+      393,
+      269,
+      762,
+      505
+    ],
+    "review_status": "Source timing, references, full contact/actual gutter overlay/native crops visually checked. No adjacent panels or premature transformation."
+  },
+  {
+    "id": "scene-0223",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_02",
+    "source_paragraphs": [
+      13,
+      14
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0223.webp",
+    "page": "part-08-02.html",
+    "crop": [
+      776,
+      269,
+      1145,
+      505
+    ],
+    "review_status": "Source timing, references, full contact/actual gutter overlay/native crops visually checked. No adjacent panels or premature transformation."
+  },
+  {
+    "id": "scene-0224",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_02",
+    "source_paragraphs": [
+      15,
+      16,
+      17
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0224.webp",
+    "page": "part-08-02.html",
+    "crop": [
+      1158,
+      269,
+      1527,
+      505
+    ],
+    "review_status": "Source timing, references, full contact/actual gutter overlay/native crops visually checked. No adjacent panels or premature transformation."
+  },
+  {
+    "id": "scene-0225",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_02",
+    "source_paragraphs": [
+      18,
+      19
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0225.webp",
+    "page": "part-08-02.html",
+    "crop": [
+      9,
+      518,
+      380,
+      754
+    ],
+    "review_status": "Source timing, references, full contact/actual gutter overlay/native crops visually checked. No adjacent panels or premature transformation."
+  },
+  {
+    "id": "scene-0226",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_02",
+    "source_paragraphs": [
+      20,
+      21
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0226.webp",
+    "page": "part-08-02.html",
+    "crop": [
+      393,
+      518,
+      762,
+      754
+    ],
+    "review_status": "Source timing, references, full contact/actual gutter overlay/native crops visually checked. No adjacent panels or premature transformation."
+  },
+  {
+    "id": "scene-0227",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_02",
+    "source_paragraphs": [
+      22,
+      23
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0227.webp",
+    "page": "part-08-02.html",
+    "crop": [
+      776,
+      518,
+      1145,
+      754
+    ],
+    "review_status": "Source timing, references, full contact/actual gutter overlay/native crops visually checked. No adjacent panels or premature transformation."
+  },
+  {
+    "id": "scene-0228",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_02",
+    "source_paragraphs": [
+      24,
+      25
+    ],
+    "sentence_markers": 4,
+    "status": "reviewed",
+    "asset": "assets/scene-0228.webp",
+    "page": "part-08-02.html",
+    "crop": [
+      1158,
+      518,
+      1527,
+      754
+    ],
+    "review_status": "Source timing, references, full contact/actual gutter overlay/native crops visually checked. No adjacent panels or premature transformation."
+  },
+  {
+    "id": "scene-0229",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_02",
+    "source_paragraphs": [
+      26,
+      27
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0229.webp",
+    "page": "part-08-02.html",
+    "crop": [
+      9,
+      768,
+      380,
+      1015
+    ],
+    "review_status": "Source timing, references, full contact/actual gutter overlay/native crops visually checked. No adjacent panels or premature transformation."
+  },
+  {
+    "id": "scene-0230",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_02",
+    "source_paragraphs": [
+      28,
+      29,
+      30
+    ],
+    "sentence_markers": 4,
+    "status": "reviewed",
+    "asset": "assets/scene-0230.webp",
+    "page": "part-08-02.html",
+    "crop": [
+      394,
+      768,
+      762,
+      1015
+    ],
+    "review_status": "Source timing, references, full contact/actual gutter overlay/native crops visually checked. No adjacent panels or premature transformation."
+  },
+  {
+    "id": "scene-0231",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_02",
+    "source_paragraphs": [
+      31,
+      32,
+      33
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0231.webp",
+    "page": "part-08-02.html",
+    "crop": [
+      776,
+      768,
+      1144,
+      1015
+    ],
+    "review_status": "Source timing, references, full contact/actual gutter overlay/native crops visually checked. No adjacent panels or premature transformation."
+  },
+  {
+    "id": "scene-0232",
+    "chapter": 8,
+    "part_id": "B08_Chapter_08_Part_02",
+    "source_paragraphs": [
+      34,
+      35,
+      36
+    ],
+    "sentence_markers": 3,
+    "status": "reviewed",
+    "asset": "assets/scene-0232.webp",
+    "page": "part-08-02.html",
+    "crop": [
+      1159,
+      768,
+      1527,
+      1015
+    ],
+    "review_status": "Source timing, references, full contact/actual gutter overlay/native crops visually checked. No adjacent panels or premature transformation."
   }
 ]
